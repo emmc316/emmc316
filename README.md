@@ -1,5 +1,5 @@
 # Hello there I'm Eric.
-##### I'm a mexican student who just want to grow in this industry and work in amazing projects where I can show my skills and knowledge to the world. 
+##### I'm a mexican student who just want to grew in this industry and work in amazing projects where I can show my skills and knowledge to the world. 
 ![img](https://i.imgur.com/aVrtEzh.png)
 
 # About me

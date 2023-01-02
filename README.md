@@ -3,11 +3,11 @@
 ![img](https://i.imgur.com/aVrtEzh.png)
 
 # About me
-##### I'm studiyng Software Engineer at Instituto Tecnológico de Veracruz and I've learned to use some languages like C, C++, Java, etc. Actually I have knowledge in databases using MySQL, MariaDB and SQLServer. I got experience using systems running in Linux so I know manage Servers, FTP services, Apache Servers and some network services.
+##### I'm studiyng Software Engineer at Instituto Tecnológico de Veracruz and I've learned to use some languages like C, C++, Java, etc. Actually I have knowledge in databases using MySQL, MariaDB and SQLServer. I got experience using systems running in Linux so I know how to manage Servers, FTP services, Apache Servers and some network services.
 
 ##### In this moment I'm the president of Comunidad de Ingeniería en Sistemas, you can see more on [Comunidad-de-Ingeniería-en-Sistemas](https://github.com/Comunidad-De-Ingenieria-en-Sistemas).
 
-#### Where you can find me?
+#### Where can you find me?
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ericmontalvo44@gmail.com?Subject=Request%20Mission) [![soloLearn](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/profile/12934494) [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emmc316) [![gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/emmc316) [![bictbucket](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/emmc316/) [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmc316/)  [![stackOverFlow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15986721/emmc316)
 
 ### Tools and IDEs that I use.
@@ -23,7 +23,7 @@
 ### Database knowledges
 ![mdb](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![mscsql](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-### OS Systems that I have used.
+### OS that I have used.
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white) ![DEbian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white) ![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![lINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
 
 ### Knowledges in terminals.

@@ -3,7 +3,7 @@
 ![img](https://i.imgur.com/aVrtEzh.png)
 
 # About me
-##### I'm studiyng Computer Systems Enginering at Instituto Tecnológico de Veracruz and I've learned to use some languages like C, C++, Java, etc. Actually I have knowledge in databases using MySQL, MariaDB and SQLServer. I got experience using systems running in Linux so I know manage Servers, FTP services, Apache Servers and some network services.
+##### I'm studiyng Software Engineer Student  at Instituto Tecnológico de Veracruz and I've learned to use some languages like C, C++, Java, etc. Actually I have knowledge in databases using MySQL, MariaDB and SQLServer. I got experience using systems running in Linux so I know manage Servers, FTP services, Apache Servers and some network services.
 
 ##### In this moment I'm the president of Comunidad de Ingeniería en Sistemas, you can see more on [Comunidad-de-Ingeniería-en-Sistemas](https://github.com/Comunidad-De-Ingenieria-en-Sistemas).
 

@@ -1,5 +1,5 @@
 # Hello there I'm Eric.
-##### I'm a mexican student who just want to grow up in this industry and work in amazing projects where I can show my skills and knowledge to the world. 
+##### I'm a mexican someone who just want to grow up in this industry and work in amazing projects where I can show my skills and knowledge to the world. I almost finish my degree as student so as far I finish my degree in Systems Enginner I hope soon explore the industry and share what I can do to everyone. 
 ![img](https://i.imgur.com/aVrtEzh.png)
 
 # About me
@@ -8,7 +8,7 @@
 ##### In this moment I'm the president of Comunidad de Ingeniería en Sistemas, you can see more on [Comunidad-de-Ingeniería-en-Sistemas](https://github.com/Comunidad-De-Ingenieria-en-Sistemas).
 
 #### Where can you find me?
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ericmontalvo44@gmail.com?Subject=Request%20Mission) [![soloLearn](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/profile/12934494) [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emmc316) [![gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/emmc316) [![bictbucket](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/emmc316/) [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmc316/)  [![stackOverFlow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15986721/emmc316)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eric.montalvo@protonmail.com?Subject=Request%20Mission) [![soloLearn](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/profile/12934494) [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emmc316) [![gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/emmc316) [![bictbucket](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/emmc316/) [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmc316/)  [![stackOverFlow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15986721/emmc316)
 
 ### Tools and IDEs that I use.
 

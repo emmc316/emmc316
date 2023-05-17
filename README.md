@@ -1,6 +1,6 @@
 # Hello there I'm Eric.
 ##### I'm a mexican someone who just want to grow up in this industry and work in amazing projects where I can show my skills and knowledge to the world. I almost finish my degree as student so as far I finish my degree in Systems Enginner I hope soon explore the industry and share what I can do to everyone. 
-![img](https://media.licdn.com/dms/image/D5616AQFMXIw2RHcq4A/profile-displaybackgroundimage-shrink_350_1400/0/1674322094502?e=1684972800&v=beta&t=fMGJupzzaB1nvT9VvX5bSbQmTb0-wZJjfL18x6AUH-Y)
+
 
 # About me
 ##### I'm studiyng Software Engineer at Instituto Tecnológico de Veracruz and I've learned to use some languages like C, C++, Java, etc. Actually I have knowledge in databases using MySQL, MariaDB and SQLServer. I got experience using systems running in Linux so I know how to manage Servers, FTP services, Apache Servers and some network services.

@@ -21,6 +21,8 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![Angular](https://img.shields.io/badge/Angular-DE0000?style=for-the-badge&logo=angular&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-4DE14D?style=for-the-badge&logo=spring&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF4000?style=for-the-badge&logo=laravel&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-088A85?style=for-the-badge&logo=vue.js&logoColor=white)
 
 ### Database knowledges
 ![mdb](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![mscsql](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
